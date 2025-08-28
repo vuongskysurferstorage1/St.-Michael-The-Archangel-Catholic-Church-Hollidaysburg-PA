@@ -94,8 +94,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.0648410342244663,
-          "pitch": -0.07529339223440346,
+          "yaw": 3.1084732336881125,
+          "pitch": 0.03537250805626613,
           "rotation": 0,
           "target": "0-st-michael-the-archangel-catholic-church-hollidaysburg-pa"
         },
@@ -224,6 +224,12 @@ var APP_DATA = {
           "pitch": -0.013005804799451681,
           "rotation": 0,
           "target": "2-st-michael-the-archangel-catholic-church-hollidaysburg-pa"
+        },
+        {
+          "yaw": -0.2573929842253193,
+          "pitch": 0.009918929744758387,
+          "rotation": 0,
+          "target": "4-st-michael-the-archangel-catholic-church-hollidaysburg-pa"
         }
       ],
       "infoHotspots": []
@@ -272,6 +278,12 @@ var APP_DATA = {
           "pitch": -1.2647116995171253,
           "rotation": 0,
           "target": "1-st-michael-the-archangel-catholic-church-hollidaysburg-pa"
+        },
+        {
+          "yaw": 0.9454237167681541,
+          "pitch": 0.004121341089643238,
+          "rotation": 0,
+          "target": "3-st-michael-the-archangel-catholic-church-hollidaysburg-pa"
         }
       ],
       "infoHotspots": []
